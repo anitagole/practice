@@ -10,6 +10,8 @@ public class LOGINPAGETC {
 		
 		System.out.println("login tc");
 		
+		System.out.println("validate url");
+		
 	}
 
 }
