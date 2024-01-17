@@ -6,6 +6,8 @@ public class LOGINPAGETC {
 	{
 		System.out.println("username tc");
 		
+		System.out.println("password tc");
+		
 	}
 
 }
